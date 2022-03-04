@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @thrtintl
+- 👀 I’m interested in Cyber Security Analyst
+- 🌱 I’m currently learning Threat Intellegence
